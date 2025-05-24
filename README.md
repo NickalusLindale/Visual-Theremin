@@ -57,7 +57,7 @@ Explore the full design philosophy, development notes, and technical breakdowns 
 
 ## 🧪 Current Limitations
 
-IR camera performance may vary across systems  
+Camera performance may vary across systems  
 
 Calibration process still requires manual fine-tuning  
 
