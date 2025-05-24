@@ -67,7 +67,7 @@ See Known Issues for more.
 
 ## 🤝 Contributing
 
-Interested in expanding the Terpsitone? Please check the Contributing Guide and share your ideas, fixes, or extensions.  
+Interested in expanding the Terpsitone? Please check the [Contributing Guide](https://github.com/NickalusLindale/Visual-Theremin/wiki/Contributing) and share your ideas, fixes, or extensions.  
 
 
 
