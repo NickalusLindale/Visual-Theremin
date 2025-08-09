@@ -26,6 +26,7 @@ Explore the full design philosophy, development notes, and technical breakdowns 
 * Compatible camera + system drivers
 * MediaPipe
    * This folder MUST be extracted and placed in the same folder as the .toe projects (_See_ Wiki for complete folder organization)
+* ODOT (Free MaxMSP Add-On)
 
 3. Hardware Setup
   * Mount your infrared camera above or in front of the performance area
